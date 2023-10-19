@@ -1,0 +1,17 @@
+h1 {
+    font-family: Monospace, serif;
+    font-size: 7vh;
+    color: #6cb2eb;
+    margin-left: 2vw;
+}
+
+html, body, #root, .App {
+    height: 100vh;
+}
+
+html {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background: linear-gradient(33deg, rgb(101, 79, 79) 0%, rgba(242, 122, 26, 1) 100%);
+}
